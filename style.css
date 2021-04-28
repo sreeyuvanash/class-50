@@ -1,0 +1,41 @@
+h1{
+    color:rgb(0, 0, 0)
+}
+p{
+    color: rgb(161, 161, 161);
+}
+
+.header{
+    background-color: rgb(74, 74, 236);
+    display: flex;
+    justify-content: space-between;
+}
+.contant{
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.menu{
+    background-color: blanchedalmond;
+}
+.trex{
+    background-color: black;
+}
+.pong{
+    background-color: black;
+}.angry-bird{
+    background-color: black;
+}.car-game{
+    background-color: black;
+}
+.icon{
+    display: flex;
+    justify-content:"flex-end";
+}
+.end{
+    display: flex;
+    justify-content: center;
+}
+
+
